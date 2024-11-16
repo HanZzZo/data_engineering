@@ -1,1 +1,1 @@
-print('text')
+print('1')
